@@ -7,7 +7,18 @@
         "isSticky": false,
         "title": "Home",
         "isTitleVisible": true,
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "info",
+                "altText": "",
+                "url": "somnus67k.com/info",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "socialLinks": [
             {
                 "type": "Social",
