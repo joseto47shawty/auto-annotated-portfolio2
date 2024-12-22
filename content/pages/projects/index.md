@@ -5,7 +5,7 @@ colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/somnus island.png
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 50
