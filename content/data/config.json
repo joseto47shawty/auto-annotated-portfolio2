@@ -3,7 +3,7 @@
     "favicon": "/images/somnus island.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-a",
         "isSticky": false,
         "title": "Home",
         "isTitleVisible": true,
