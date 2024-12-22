@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: pepe & gone
-colors: colors-a
+colors: colors-b
 date: '2024-12-06'
 client: josejoseo
 description: ''
