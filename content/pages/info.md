@@ -192,7 +192,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'for contact, booking, send beats:'
+    subtitle: 'for contact, booking:'
     colors: colors-f
     text: |
       <contacto@somnus67k.com>
