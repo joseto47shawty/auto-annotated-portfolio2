@@ -150,7 +150,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: gone
             altText: ''
             url: 'https://somnus67k.com/gone'
             showIcon: false
