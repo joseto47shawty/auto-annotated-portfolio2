@@ -245,7 +245,7 @@ sections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: have a good day
           isRequired: false
           width: full
           type: CheckboxFormControl
