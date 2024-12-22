@@ -47,7 +47,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: our instagram
         url: /projects
     showDate: false
     showDescription: true
