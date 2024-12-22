@@ -88,7 +88,7 @@ sections:
           self:
             textAlign: left
         title: ''
-        subtitle: josejoseo
+        subtitle: ''
       - type: FeaturedItem
         actions:
           - type: Link
