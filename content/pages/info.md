@@ -131,7 +131,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: dom
             altText: ''
             url: 'https://somnus67k.com/dom'
             showIcon: false
