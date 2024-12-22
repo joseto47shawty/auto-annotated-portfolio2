@@ -117,7 +117,7 @@ sections:
         actions:
           - type: Link
             label: josi
-            url: 'https://somnus67k.com/josi'
+            url: 'https://somnus67k.com/sky'
         styles:
           self:
             textAlign: left
