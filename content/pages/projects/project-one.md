@@ -8,7 +8,7 @@ description: soon
 featuredImage:
   type: ImageBlock
   url: /images/person-2.jpg
-  altText: altText of the image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 media:
