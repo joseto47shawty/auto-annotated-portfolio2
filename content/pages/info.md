@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/s67trans.png
   backgroundSize: contain
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat
   opacity: 75
 sections:
   - elementId: ''
