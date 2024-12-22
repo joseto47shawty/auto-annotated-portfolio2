@@ -85,7 +85,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: josejoseo
             altText: ''
             url: 'https://somnus67k.com/josejoseo'
             showIcon: false
