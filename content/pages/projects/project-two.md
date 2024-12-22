@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ruta molly world
 colors: colors-a
-date: '0002-12-20'
+date: '2022-12-20'
 client: Sky
 description: ''
 featuredImage:
