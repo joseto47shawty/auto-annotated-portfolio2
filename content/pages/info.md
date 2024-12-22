@@ -195,7 +195,7 @@ sections:
     subtitle: contacto
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <contacto@somnus67k.com>
   - type: DividerSection
     styles:
       self:
