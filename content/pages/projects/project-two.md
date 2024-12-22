@@ -7,10 +7,10 @@ client: Sky
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
+  url: /images/IMG_2026.jpeg
+  altText: ''
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
+  url: /images/IMG_2027.jpeg
+  altText: ''
 ---

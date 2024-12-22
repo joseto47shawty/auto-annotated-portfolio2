@@ -12,7 +12,13 @@ featuredImage:
   caption: ''
   elementId: ''
 media:
-  type: ImageBlock
-  url: /images/logo-somnus-tresde.gif
-  altText: 3d
+  type: VideoBlock
+  title: ''
+  url: ''
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
