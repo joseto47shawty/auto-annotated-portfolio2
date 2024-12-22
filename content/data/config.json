@@ -3,8 +3,8 @@
     "favicon": "/images/somnus island.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
+        "headerVariant": "variant-b",
+        "isSticky": true,
         "title": "Home",
         "isTitleVisible": true,
         "primaryLinks": [
@@ -13,6 +13,16 @@
                 "label": "info",
                 "altText": "",
                 "url": "info",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "last releases",
+                "altText": "",
+                "url": "/projects",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
