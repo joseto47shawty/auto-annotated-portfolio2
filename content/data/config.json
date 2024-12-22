@@ -15,13 +15,6 @@
                 "label": "instagram",
                 "url": "https://instagram.com/somnus67k",
                 "icon": "instagram"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
