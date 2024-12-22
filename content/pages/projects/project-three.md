@@ -13,6 +13,6 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/logo-somnus-tresde.gif
   altText: Project image
 ---
