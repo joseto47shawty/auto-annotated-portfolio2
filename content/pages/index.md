@@ -48,7 +48,7 @@ sections:
     actions:
       - type: Link
         label: our instagram
-        url: /projects
+        url: 'https://instagram.com/somnus67k'
     showDate: false
     showDescription: true
     showFeaturedImage: true
