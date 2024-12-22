@@ -47,7 +47,7 @@ sections:
         url: >-
           https://soundcloud.com/skyyakasky999/sets/somnus67k?si=fec60e932c3e45228b461a64a368f1e0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
         showIcon: false
-        icon: arrowRight
+        icon: play
         iconPosition: right
         style: primary
         elementId: ''
