@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "last releases",
                 "altText": "",
                 "url": "/projects",
                 "showIcon": false,
