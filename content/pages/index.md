@@ -49,6 +49,7 @@ sections:
       - type: Link
         label: our instagram
         url: 'https://instagram.com/somnus67k'
+        showIcon: true
     showDate: false
     showDescription: true
     showFeaturedImage: true
