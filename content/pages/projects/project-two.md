@@ -12,5 +12,5 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/IMG_2027.jpeg
-  altText: Project image
+  altText: ''
 ---
