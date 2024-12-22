@@ -7,7 +7,7 @@ client: sky
 description: soon
 featuredImage:
   type: ImageBlock
-  url: /images/somnus ysl logo minima expresion.png
+  url: /images/person-2.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
