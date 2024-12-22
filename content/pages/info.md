@@ -116,7 +116,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: josi
             url: 'https://www.instagram.com/'
         styles:
           self:
