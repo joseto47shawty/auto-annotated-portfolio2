@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: las releases
+title: last releases
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
