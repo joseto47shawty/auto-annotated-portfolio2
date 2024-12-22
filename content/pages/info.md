@@ -116,7 +116,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: josi
+            label: sky
             url: 'https://somnus67k.com/sky'
         styles:
           self:
