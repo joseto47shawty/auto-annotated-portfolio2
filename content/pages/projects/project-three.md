@@ -9,7 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/1733544298376.jpg
   altText: pepe&gone
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
