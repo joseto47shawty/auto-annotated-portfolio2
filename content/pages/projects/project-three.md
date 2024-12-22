@@ -14,5 +14,5 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/logo-somnus-tresde.gif
-  altText: Project image
+  altText: 3d
 ---
