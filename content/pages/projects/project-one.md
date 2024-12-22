@@ -9,7 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/person-2.jpg
   altText: ''
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
