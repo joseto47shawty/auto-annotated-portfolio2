@@ -51,7 +51,7 @@ sections:
         url: 'https://instagram.com/somnus67k'
         showIcon: true
         icon: instagram
-        iconPosition: left
+        iconPosition: right
     showDate: false
     showDescription: true
     showFeaturedImage: true
