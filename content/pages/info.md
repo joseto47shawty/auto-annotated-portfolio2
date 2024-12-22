@@ -233,7 +233,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: yo email
           isRequired: true
           width: full
           type: EmailFormControl
