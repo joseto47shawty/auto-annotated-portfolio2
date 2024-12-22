@@ -135,7 +135,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: our socials
+    subtitle: 'our socials:'
   - type: DividerSection
     styles:
       self:
