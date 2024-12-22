@@ -85,7 +85,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: discord
             url: 'https://discord.gg/RB4DWEeZUD'
         styles:
           self:
