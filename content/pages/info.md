@@ -70,7 +70,7 @@ sections:
         actions:
           - type: Link
             label: instagram
-            url: 'https://github.com/'
+            url: 'https://instagram.com/somnus67k'
         styles:
           self:
             textAlign: left
