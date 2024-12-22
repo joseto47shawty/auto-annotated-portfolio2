@@ -15,6 +15,14 @@
                 "label": "instagram",
                 "url": "https://instagram.com/somnus67k",
                 "icon": "instagram"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://soundcloud.com/somnus67k",
+                "icon": "youtube",
+                "elementId": ""
             }
         ],
         "styles": {
