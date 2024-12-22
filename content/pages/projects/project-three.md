@@ -8,7 +8,7 @@ description: ''
 featuredImage:
   type: ImageBlock
   url: /images/1733544298376.jpg
-  altText: altText of the image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 media:
