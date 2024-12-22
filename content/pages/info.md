@@ -78,7 +78,7 @@ sections:
         actions:
           - type: Link
             label: soundcloud
-            url: 'https://twitter.com/'
+            url: 'https://soundcloud.com/somnus67k'
         styles:
           self:
             textAlign: left
