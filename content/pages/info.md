@@ -100,7 +100,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: vixobandz
             url: 'https://codepen.io/'
         styles:
           self:
