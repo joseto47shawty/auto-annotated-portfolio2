@@ -4,7 +4,7 @@ title: info
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/s67trans.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
