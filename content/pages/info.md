@@ -190,12 +190,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'for contact, booking, send beats:'
-    colors: colors-f
-    text: |
-      <contacto@somnus67k.com>
   - type: DividerSection
     styles:
       self:
@@ -208,6 +202,12 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: TextSection
+    variant: variant-a
+    subtitle: 'for contact, booking, send beats:'
+    colors: colors-f
+    text: |
+      <contacto@somnus67k.com>
   - type: ContactSection
     backgroundSize: full
     title: ''
