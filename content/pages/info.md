@@ -101,7 +101,7 @@ sections:
         actions:
           - type: Link
             label: vixobandz
-            url: 'https://codepen.io/'
+            url: 'https://somnus67k.com/vixobandz'
         styles:
           self:
             textAlign: left
