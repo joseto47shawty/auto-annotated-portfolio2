@@ -117,7 +117,7 @@ sections:
         actions:
           - type: Link
             label: josi
-            url: 'https://www.instagram.com/'
+            url: 'https://somnus67k.com/josi'
         styles:
           self:
             textAlign: left
