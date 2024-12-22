@@ -51,7 +51,7 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
-    subtitle: since 2021
+    subtitle: since 2022
   - type: DividerSection
     styles:
       self:
