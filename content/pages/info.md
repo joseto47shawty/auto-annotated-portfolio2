@@ -85,6 +85,14 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
+            label: Discord
+            url: 'https://discord.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
             label: josejoseo
             altText: ''
             url: 'https://somnus67k.com/josejoseo'
@@ -102,14 +110,6 @@ sections:
           - type: Link
             label: vixobandz
             url: 'https://somnus67k.com/vixobandz'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
         styles:
           self:
             textAlign: left
