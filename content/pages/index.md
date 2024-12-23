@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: '#REFRESHYOSOUND'
+    title: ''
     subtitle: ''
     styles:
       self:
@@ -47,7 +47,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: our instagram
+        label: instagram
         url: 'https://instagram.com/somnus67k'
         showIcon: true
         icon: instagram
@@ -60,7 +60,7 @@ sections:
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
+      - content/pages/projects/pepeandgone.md
     styles:
       self:
         height: auto
@@ -82,5 +82,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: last releases
+    subtitle: what's new
 ---
