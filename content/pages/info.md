@@ -138,23 +138,6 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Link
-            label: gone
-            altText: ''
-            url: 'https://somnus67k.com/gone'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0
