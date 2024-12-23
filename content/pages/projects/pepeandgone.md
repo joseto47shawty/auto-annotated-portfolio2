@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: VideoBlock
-  title: Title of the video
+  title: pepe&gone
   url: 'https://youtu.be/aKe4a5nD_nM'
   elementId: ''
   autoplay: true
