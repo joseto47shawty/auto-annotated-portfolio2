@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     text: >
       lo que nació como un grupo de amigos, fundado por josejoseo,
       zuziimanabukoga y vixobandz, se materializa el día de hoy como un
