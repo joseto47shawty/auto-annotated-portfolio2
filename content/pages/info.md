@@ -127,7 +127,7 @@ sections:
         actions:
           - type: Link
             label: vixobandz
-            url: 'https://soundcloud.com/somnus67k'
+            url: vixobandz
         styles:
           self:
             textAlign: left
