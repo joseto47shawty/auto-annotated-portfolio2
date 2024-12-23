@@ -16,12 +16,12 @@ sections:
     text: >
       lo que nació como un grupo de amigos, fundado por josejoseo,
       zuziimanabukoga y vixobandz, se materializa el día de hoy como un
-      colectivo de artistas dispuestos a generar un cambio en el underground.
+      colectivo de artistas dispuestos a generar un cambio en el under.
 
 
       s/o riky aka differente, breke, garlik, pablowo aka zephira, trash aka
       otruem y big s/o para sky, toska con terrorists win radio, gone y dom aka
-      jota 
+      jota
     styles:
       self:
         height: auto
