@@ -4,15 +4,15 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-b",
-        "isSticky": true,
+        "isSticky": false,
         "title": "Home",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
                 "label": "info",
                 "altText": "",
-                "url": "info",
+                "url": "https://somnus67k.com/info",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "what's new",
                 "altText": "",
-                "url": "/projects",
+                "url": "https://somnus67k.com/projects",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
