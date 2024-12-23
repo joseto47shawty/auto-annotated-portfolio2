@@ -14,5 +14,5 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Picsart_24-12-12_01-18-39-270.jpg
-  altText: Project image
+  altText: ''
 ---
