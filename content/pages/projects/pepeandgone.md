@@ -17,7 +17,7 @@ media:
   title: Title of the video
   url: 'https://youtu.be/aKe4a5nD_nM'
   elementId: ''
-  autoplay: false
+  autoplay: true
   loop: true
   muted: true
   controls: true
