@@ -46,20 +46,23 @@ sections:
     type: FeaturedProjectsSection
     elementId: ''
     actions:
-      - type: Link
-        label: instagram
-        url: 'https://instagram.com/somnus67k'
-        showIcon: true
-        icon: instagram
+      - type: Button
+        label: all news n projects
+        altText: ''
+        url: projects
+        showIcon: false
+        icon: arrowRight
         iconPosition: right
+        style: primary
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
+      - content/pages/projects/rutamollyworld.md
+      - content/pages/projects/interview.md
       - content/pages/projects/pepeandgone.md
     styles:
       self:
