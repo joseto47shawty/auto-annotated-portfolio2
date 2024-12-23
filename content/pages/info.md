@@ -19,8 +19,9 @@ sections:
       colectivo de artistas dispuestos a generar un cambio en el underground.
 
 
-      finales 2021, con una renovada generación de soundcloud, josejoseo se una
-      zuziimanabukoga en la m
+      s/o riky aka differente, breke, garlik, pablowo aka zephira, trash aka
+      otruem y big s/o para sky, toska con terrorists win radio, gone y dom aka
+      jota 
     styles:
       self:
         height: auto
