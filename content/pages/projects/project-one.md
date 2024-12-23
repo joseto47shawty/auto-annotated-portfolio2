@@ -9,7 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Picsart_24-12-12_01-18-39-270.jpg
   altText: ''
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
