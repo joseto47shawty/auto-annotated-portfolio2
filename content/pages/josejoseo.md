@@ -41,7 +41,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: socials
     items:
       - type: FeaturedItem
         title: I'm Fast
