@@ -26,6 +26,6 @@ backgroundImage:
   url: /images/logo-somnus-tresde.gif
   backgroundSize: contain
   backgroundPosition: center
-  backgroundRepeat: repeat-y
+  backgroundRepeat: no-repeat
   opacity: 37
 ---
