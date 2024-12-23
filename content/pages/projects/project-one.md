@@ -7,9 +7,9 @@ client: somnus67k
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/person-2.jpg
-  altText: ''
-  caption: ''
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
   elementId: ''
 media:
   type: ImageBlock
