@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: jeje.mp4
+  url: 'https://youtu.be/aKe4a5nD_nM'
   elementId: ''
   autoplay: false
   loop: false
