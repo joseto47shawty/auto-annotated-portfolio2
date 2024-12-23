@@ -8,13 +8,20 @@ backgroundImage:
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 64
+  opacity: 45
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |
-      una playlist para que nos conozcas
+    text: >
+      lo que nació como un grupo de amigos, fundado por josejoseo,
+      zuziimanabukoga y vixobandz, se materializa el día de hoy como un
+      colectivo de artistas dispuestos a generar un cambio en el under.
+
+
+      s/o riky aka differente, breke, garlik, pablowo aka zephira, trash aka
+      otruem y big s/o para sky, toska con terrorists win radio, gone y dom aka
+      jota
     styles:
       self:
         height: auto
@@ -35,13 +42,13 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: left
+        textAlign: center
       actions:
         justifyContent: flex-start
     type: HeroSection
     actions:
       - type: Button
-        label: here
+        label: playlist here
         altText: ''
         url: >-
           https://soundcloud.com/skyyakasky999/sets/somnus67k?si=fec60e932c3e45228b461a64a368f1e0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
@@ -113,7 +120,7 @@ sections:
         textAlign: left
     subtitle: 'our socials:'
   - type: FeaturedItemsSection
-    subtitle: 'members:'
+    subtitle: 'active members:'
     items:
       - type: FeaturedItem
         actions:
@@ -134,8 +141,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: discord
-            url: 'https://discord.gg/RB4DWEeZUD'
+            label: sky
+            url: sky
         styles:
           self:
             textAlign: left
