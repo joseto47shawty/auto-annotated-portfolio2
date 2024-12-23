@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: entrevista via kick @1keiyo
 colors: colors-a
-date: ''
+date: '0002-12-13'
 client: sky
 description: soon
 featuredImage:
