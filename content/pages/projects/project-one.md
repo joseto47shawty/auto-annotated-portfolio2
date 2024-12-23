@@ -4,7 +4,7 @@ title: entrevista via kick @1keiyo
 colors: colors-b
 date: '2024-12-13'
 client: somnus67k
-description: 'Josejoseo, Vixobandz, Sky, Dom'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Picsart_24-12-12_01-18-39-270.jpg
