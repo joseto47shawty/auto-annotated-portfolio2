@@ -13,6 +13,13 @@ media:
   type: ImageBlock
   url: /images/IMG_2027.jpeg
   altText: ''
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: contain
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 En palabras de Sky:
 
