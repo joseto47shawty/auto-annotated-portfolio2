@@ -14,11 +14,18 @@ featuredImage:
 media:
   type: VideoBlock
   title: ''
-  url: ''
+  url: jeje.mp4
   elementId: ''
   autoplay: false
   loop: false
   muted: false
   controls: true
   aspectRatio: '16:9'
+backgroundImage:
+  type: BackgroundImage
+  url: /images/logo-somnus-tresde.gif
+  backgroundSize: contain
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 37
 ---
