@@ -126,7 +126,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: soundcloud
+            label: vixobandz
             url: 'https://soundcloud.com/somnus67k'
         styles:
           self:
