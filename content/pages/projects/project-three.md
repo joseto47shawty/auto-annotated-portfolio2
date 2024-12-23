@@ -27,5 +27,5 @@ backgroundImage:
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 42
+  opacity: 37
 ---
