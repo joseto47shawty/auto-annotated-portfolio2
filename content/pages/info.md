@@ -141,7 +141,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: discord
+            label: sky
             url: 'https://discord.gg/RB4DWEeZUD'
         styles:
           self:
