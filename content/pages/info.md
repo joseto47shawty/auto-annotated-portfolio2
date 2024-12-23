@@ -105,14 +105,6 @@ sections:
             textAlign: left
         title: ''
         subtitle: ''
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: vixobandz
-            url: 'https://somnus67k.com/vixobandz'
-        styles:
-          self:
-            textAlign: left
     columns: 3
     spacingX: 120
     spacingY: 0
