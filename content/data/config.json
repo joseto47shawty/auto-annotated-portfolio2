@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "last releases",
+                "label": "what' new",
                 "altText": "",
                 "url": "/projects",
                 "showIcon": false,
