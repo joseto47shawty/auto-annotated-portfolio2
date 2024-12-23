@@ -3,7 +3,7 @@ type: ProjectLayout
 title: entrevista via kick @1keiyo
 colors: colors-a
 date: '2024-12-13'
-client: sky
+client: somnus67k
 description: soon
 featuredImage:
   type: ImageBlock
