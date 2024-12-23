@@ -19,7 +19,7 @@ backgroundImage:
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 67
+  opacity: 52
 ---
 En palabras de Sky:
 
