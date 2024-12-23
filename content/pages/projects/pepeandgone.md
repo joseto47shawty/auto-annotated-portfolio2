@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PEPE & GONE
 date: '2024-12-06'
-client: Awesome client
+client: Josejoseo & Gone
 description: ''
 featuredImage:
   type: ImageBlock
