@@ -47,7 +47,7 @@ sections:
     elementId: ''
     actions:
       - type: Button
-        label: Learn more
+        label: all news n projects
         altText: ''
         url: projects
         showIcon: false
