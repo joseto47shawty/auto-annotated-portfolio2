@@ -54,7 +54,7 @@ sections:
             label: instagram
             altText: ''
             url: inatagram.com/josejoseo67k
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             iconPosition: right
             style: primary
