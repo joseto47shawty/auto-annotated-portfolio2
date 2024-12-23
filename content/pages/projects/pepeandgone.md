@@ -21,7 +21,7 @@ media:
   loop: true
   muted: true
   controls: true
-  aspectRatio: '16:9'
+  aspectRatio: '4:3'
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
