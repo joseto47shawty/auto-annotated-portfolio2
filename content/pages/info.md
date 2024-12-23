@@ -13,8 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |
-      una playlist para que nos conozcas
+    text: >+
+      lo que nació como un grupo de amigos, fundado por josejoseo,
+      zuziimanabukoga y vixobandz, se materializa el día de hoy como un
+      colectivo de artistas dispuestos a generar un cambio en el under.
+
+
+      s/o para zuzii, riky aka different!, garlik, pablowo aka zephira, trash
+      aka otruem y big s/o para sky, toskita con terrorists win radio y dom aka
+      javier gaultier.
+
     styles:
       self:
         height: auto
