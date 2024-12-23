@@ -30,7 +30,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "projects",
                 "altText": "",
                 "url": "projects",
                 "showIcon": false,
