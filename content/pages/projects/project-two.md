@@ -15,7 +15,7 @@ media:
   altText: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/somnus ep artwork hori.png
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
