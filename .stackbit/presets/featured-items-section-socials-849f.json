@@ -1,0 +1,128 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "socials",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "redes"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "our socials:",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": null,
+                        "text": null,
+                        "featuredImage": null,
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "instagram",
+                                "altText": null,
+                                "url": "https://instagram.com/somnus67k",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": null,
+                        "text": null,
+                        "featuredImage": null,
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "soundcloud",
+                                "altText": null,
+                                "url": "https://soundcloud.com/somnus67k",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": null,
+                        "subtitle": null,
+                        "text": null,
+                        "featuredImage": null,
+                        "actions": [
+                            {
+                                "$$type": "Link",
+                                "label": "discord",
+                                "altText": null,
+                                "url": "https://discord.gg/RB4DWEeZUD",
+                                "showIcon": null,
+                                "icon": null,
+                                "iconPosition": null,
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "colors": "colors-f",
+                "columns": 3,
+                "spacingX": 120,
+                "spacingY": 0,
+                "elementId": null,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-8",
+                            "pb-8",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "justifyContent": "center",
+                        "borderRadius": "none",
+                        "borderWidth": 0,
+                        "borderStyle": "none",
+                        "borderColor": "border-dark"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-socials-849f.png"
+        }
+    ]
+}
