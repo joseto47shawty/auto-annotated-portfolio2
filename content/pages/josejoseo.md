@@ -51,7 +51,7 @@ sections:
 
         actions:
           - type: Button
-            label: ''
+            label: instagram
             altText: ''
             url: inatagram.com/josejoseo67k
             showIcon: true
