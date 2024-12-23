@@ -45,13 +45,7 @@ sections:
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: instagram
-        url: 'https://instagram.com/somnus67k'
-        showIcon: true
-        icon: instagram
-        iconPosition: right
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
