@@ -5,7 +5,7 @@ colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/s67trans.png
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 64
