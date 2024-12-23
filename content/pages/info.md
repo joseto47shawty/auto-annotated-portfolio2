@@ -122,7 +122,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: gone
+        title: ''
         subtitle: ''
         text: ''
         elementId: ''
