@@ -130,4 +130,54 @@ sections:
     colors: colors-f
     text: |
       <contacto@somnus67k.com>
+  - type: FeaturedItemsSection
+    subtitle: 'our socials:'
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: instagram
+            url: 'https://instagram.com/somnus67k'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: soundcloud
+            url: 'https://soundcloud.com/somnus67k'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: discord
+            url: 'https://discord.gg/RB4DWEeZUD'
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 3
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 ---
