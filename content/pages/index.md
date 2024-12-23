@@ -47,7 +47,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: our instagram
+        label: instagram
         url: 'https://instagram.com/somnus67k'
         showIcon: true
         icon: instagram
