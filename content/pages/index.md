@@ -82,5 +82,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: latest news
+    subtitle: whats new
 ---
