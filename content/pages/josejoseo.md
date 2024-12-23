@@ -44,7 +44,7 @@ sections:
     title: socials
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: ''
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
