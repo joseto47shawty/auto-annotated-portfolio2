@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: VideoBlock
   title: ''
-  url: ''
+  url: josejoseo.mp4
   elementId: ''
   autoplay: false
   loop: false
