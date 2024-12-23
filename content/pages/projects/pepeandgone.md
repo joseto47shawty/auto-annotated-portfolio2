@@ -18,7 +18,7 @@ media:
   url: 'https://youtu.be/aKe4a5nD_nM'
   elementId: ''
   autoplay: false
-  loop: false
+  loop: true
   muted: false
   controls: true
   aspectRatio: '16:9'
