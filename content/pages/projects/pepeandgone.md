@@ -24,7 +24,7 @@ addTitleSuffix: true
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/s67trans.png
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
