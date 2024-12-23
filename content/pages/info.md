@@ -234,6 +234,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: members
   - type: DividerSection
     styles:
       self:
