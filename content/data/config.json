@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "what' new",
+                "label": "what's new",
                 "altText": "",
                 "url": "/projects",
                 "showIcon": false,
