@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 64
+  opacity: 57
 sections:
   - elementId: ''
     colors: colors-f
