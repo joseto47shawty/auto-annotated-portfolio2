@@ -7,7 +7,7 @@ client: somnus67k
 description: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Picsart_24-12-12_01-18-39-270.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
