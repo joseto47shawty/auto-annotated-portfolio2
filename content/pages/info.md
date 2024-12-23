@@ -13,9 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-
-
+    text: |
+      una playlist para que nos conozcas
     styles:
       self:
         height: auto
