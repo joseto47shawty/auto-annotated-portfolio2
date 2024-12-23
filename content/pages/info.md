@@ -113,7 +113,7 @@ sections:
         textAlign: left
     subtitle: 'our socials:'
   - type: FeaturedItemsSection
-    subtitle: members
+    subtitle: 'members:'
     items:
       - type: FeaturedItem
         actions:
