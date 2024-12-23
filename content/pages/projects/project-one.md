@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: entrevista via kick @1keiyo
-colors: colors-a
+colors: colors-b
 date: '2024-12-13'
 client: somnus67k
 description: ''
