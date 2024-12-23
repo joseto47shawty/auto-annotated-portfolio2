@@ -119,7 +119,7 @@ sections:
         actions:
           - type: Link
             label: josejoseo
-            url: 'https://instagram.com/somnus67k'
+            url: josejoseo
         styles:
           self:
             textAlign: left
