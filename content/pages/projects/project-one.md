@@ -4,7 +4,7 @@ title: entrevista via kick @1keiyo
 colors: colors-a
 date: '2024-12-13'
 client: somnus67k
-description: soon
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/person-2.jpg
