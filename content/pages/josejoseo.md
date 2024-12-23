@@ -32,7 +32,7 @@ colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/somnus blanco.png
-  backgroundSize: cover
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
