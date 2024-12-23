@@ -118,7 +118,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: instagram
+            label: josejoseo
             url: 'https://instagram.com/somnus67k'
         styles:
           self:
