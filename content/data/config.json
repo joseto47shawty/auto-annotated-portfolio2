@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/somnus island.png",
+    "favicon": "/images/logo somnus estirado.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-b",

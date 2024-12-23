@@ -13,9 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-
-
+    text: |
+      una playlist para que nos conozcas
     styles:
       self:
         height: auto
@@ -91,71 +90,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: josejoseo
-            altText: ''
-            url: 'https://somnus67k.com/josejoseo'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-        title: ''
-        subtitle: ''
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: vixobandz
-            url: 'https://somnus67k.com/vixobandz'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: sky
-            url: 'https://somnus67k.com/sky'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Link
-            label: dom
-            altText: ''
-            url: 'https://somnus67k.com/dom'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Link
-            label: gone
-            altText: ''
-            url: 'https://somnus67k.com/gone'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -178,6 +112,56 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'our socials:'
+  - type: FeaturedItemsSection
+    subtitle: 'members:'
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: josejoseo
+            url: josejoseo
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: vixobandz
+            url: vixobandz
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: discord
+            url: 'https://discord.gg/RB4DWEeZUD'
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 3
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -192,87 +176,8 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'for contact, booking, send beats:'
+    subtitle: 'for contact or booking:'
     colors: colors-f
     text: |
       <contacto@somnus67k.com>
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: ''
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: first name
-          hideLabel: true
-          placeholder: first name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: last name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: yo email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: tell me
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: have a good day
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: sendear
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-    text: ''
 ---
