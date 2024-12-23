@@ -23,7 +23,7 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/logo-somnus-tresde.gif
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
