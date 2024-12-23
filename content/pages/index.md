@@ -61,8 +61,8 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/pepeandgone.md
       - content/pages/projects/rutamollyworld.md
+      - content/pages/projects/pepeandgone.md
       - content/pages/projects/interview.md
     styles:
       self:
