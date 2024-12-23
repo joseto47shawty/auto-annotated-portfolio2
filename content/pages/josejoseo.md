@@ -61,7 +61,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: inatagram.com/josejoseo67k
             showIcon: true
             icon: arrowRight
             iconPosition: right
