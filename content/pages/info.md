@@ -142,7 +142,7 @@ sections:
         actions:
           - type: Link
             label: sky
-            url: 'https://discord.gg/RB4DWEeZUD'
+            url: sky
         styles:
           self:
             textAlign: left
