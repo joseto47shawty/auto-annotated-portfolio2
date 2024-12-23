@@ -90,21 +90,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: josejoseo
-            altText: ''
-            url: 'https://somnus67k.com/josejoseo'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-        title: ''
-        subtitle: ''
     columns: 3
     spacingX: 120
     spacingY: 0
