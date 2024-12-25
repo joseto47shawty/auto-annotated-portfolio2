@@ -91,7 +91,7 @@ sections:
             altText: ''
             url: >-
               https://open.spotify.com/intl-es/artist/16hL4D5M93ydHvFS8aSECR?si=GD4ljqFkTy2gaJor9chp3w
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             iconPosition: right
             style: primary
