@@ -8,6 +8,7 @@ sections:
     actions: []
     projects:
       - content/pages/projects/pepeandgone.md
+      - content/pages/projects/rutamollyworld.md
     colors: colors-f
     variant: variant-d
     elementId: ''
