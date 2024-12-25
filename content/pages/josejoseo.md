@@ -137,6 +137,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: socials
 addTitleSuffix: true
 colors: colors-b
 backgroundImage:
