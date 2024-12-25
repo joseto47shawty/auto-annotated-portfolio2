@@ -11,7 +11,7 @@ sections:
         altText: ''
         url: >-
           https://soundcloud.com/josejoseo/sets/gone-pepe?si=dc406698bb3340d0acd18663907d8974&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
