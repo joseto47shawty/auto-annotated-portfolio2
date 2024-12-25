@@ -104,7 +104,7 @@ sections:
         title: dueño de somnus records
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/IMG_2029.jpeg
           altText: ''
           caption: ''
           elementId: ''
