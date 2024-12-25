@@ -14,7 +14,6 @@ sections:
         iconPosition: right
         elementId: ''
     projects:
-      - content/pages/projects/project-one.md
       - content/pages/projects/pepeandgone.md
     colors: colors-f
     variant: variant-d
