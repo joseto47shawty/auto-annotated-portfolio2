@@ -133,7 +133,16 @@ sections:
         styles:
           self:
             textAlign: left
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: soundcloud.com/josejoseo
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     columns: 1
     spacingX: 16
