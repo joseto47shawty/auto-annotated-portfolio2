@@ -87,7 +87,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: ''
+            label: spotify
             altText: ''
             url: /
             showIcon: true
