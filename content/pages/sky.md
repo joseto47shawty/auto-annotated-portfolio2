@@ -7,7 +7,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: soundcloud
         altText: ''
         url: /
         showIcon: true
