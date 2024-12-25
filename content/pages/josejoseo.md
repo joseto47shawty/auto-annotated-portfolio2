@@ -135,7 +135,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: youtube
         altText: ''
         url: 'https://youtube.com/@josejoseo67k?si=oD9vufZpRW84Z8oh'
         showIcon: false
