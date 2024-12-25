@@ -16,7 +16,7 @@ sections:
     projects:
       - content/pages/projects/pepeandgone.md
     colors: colors-f
-    variant: variant-b
+    variant: variant-d
     elementId: ''
     showDate: false
     showDescription: true
