@@ -38,6 +38,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: LAST RELEASE
   - type: TextSection
     colors: colors-f
     variant: variant-a
