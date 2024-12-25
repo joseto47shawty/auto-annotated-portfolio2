@@ -16,7 +16,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: spotify
         altText: ''
         url: >-
           https://open.spotify.com/intl-es/album/6XmeuZwZiZXRN5E9FB31zr?si=9DLTrChuRpq5lVauldgf4w
