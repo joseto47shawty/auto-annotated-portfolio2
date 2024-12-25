@@ -60,7 +60,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: spotify
             altText: ''
             url: >-
               https://open.spotify.com/intl-es/artist/1fzUCmxnIlACYROfCBFok9?si=h-lPW38gRj-mHuCrEjkhcA
