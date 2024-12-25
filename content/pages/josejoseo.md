@@ -71,7 +71,7 @@ sections:
           - type: Button
             label: soundcloud
             altText: ''
-            url: /
+            url: 'https://soundcloud.com/josejoseo'
             showIcon: false
             icon: arrowRight
             iconPosition: right
