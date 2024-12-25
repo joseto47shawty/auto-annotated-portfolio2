@@ -19,9 +19,12 @@ sections:
       colectivo de artistas dispuestos a generar un cambio en el under.
 
 
-      s/o riky aka differente, breke, garlik, pablowo aka zephira, trash aka
-      otruem y big s/o para sky, toska con terrorists win radio, gone y dom aka
-      jota
+      s/o riky (aka different!), garlik, pablowo (aka zephira), trash (aka
+      otruem) y big s/o para sky, toska (aka terrorists win radio), gone y dom
+      (aka jota).
+
+
+      Somnus 4 Life
     styles:
       self:
         height: auto
