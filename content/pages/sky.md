@@ -100,7 +100,7 @@ sections:
       - type: Testimonial
         quote: |
           muy bueno vetenments
-        name: felipe antonino
+        name: Sky
         title: dueño de somnus records
         image:
           type: ImageBlock
