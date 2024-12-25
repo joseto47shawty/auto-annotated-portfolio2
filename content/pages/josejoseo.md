@@ -43,7 +43,7 @@ sections:
           type: ImageBlock
           url: /images/IMG-20241211-WA0034.jpg
           altText: josejoseo
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         elementId: ''
         styles:
