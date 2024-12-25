@@ -31,31 +31,6 @@ sections:
       actions:
         justifyContent: center
     title: RELEASES
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Josejoseo
-    subtitle: ''
-    text: |+
-
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
