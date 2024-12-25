@@ -3,7 +3,7 @@ type: PageLayout
 title: josejoseo
 sections:
   - type: FeaturedProjectsSection
-    subtitle: ''
+    subtitle: ultimos lanzamientos
     actions:
       - type: Link
         label: See all projects
