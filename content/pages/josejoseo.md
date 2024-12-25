@@ -144,7 +144,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: apple music
         altText: ''
         url: >-
           https://geo.music.apple.com/us/artist/josejoseo/1599081712?app=music&ls=1
