@@ -129,7 +129,7 @@ sections:
         actions:
           - type: Link
             label: josejoseo
-            url: josejoseo
+            url: 'https://somnus67k.com/josejoseo'
         styles:
           self:
             textAlign: left
