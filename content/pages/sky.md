@@ -101,7 +101,7 @@ sections:
         quote: |
           muy bueno vetenments
         name: Sky
-        title: dueño de somnus records
+        title: Miembro de Somnus67k
         image:
           type: ImageBlock
           url: /images/IMG_2029.jpeg
