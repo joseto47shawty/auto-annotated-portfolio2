@@ -102,7 +102,7 @@ sections:
       - type: ImageBlock
         url: /images/IMG_2027.jpeg
         altText: ''
-        caption: Image one caption
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-2.jpg
