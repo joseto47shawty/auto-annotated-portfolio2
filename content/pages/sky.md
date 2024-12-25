@@ -99,7 +99,7 @@ sections:
     testimonials:
       - type: Testimonial
         quote: |
-          muy bueno vetenments
+          "Treparé por el underground, asi como un koala en su eucalipto"
         name: Sky
         title: Miembro de Somnus67k
         image:
