@@ -135,6 +135,15 @@ sections:
         style: primary
         elementId: ''
       - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://open.spotify.com/artist/16hL4D5M93ydHvFS8aSECR'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
         label: youtube
         altText: ''
         url: 'https://youtube.com/@josejoseo67k?si=oD9vufZpRW84Z8oh'
@@ -148,15 +157,6 @@ sections:
         altText: ''
         url: >-
           https://geo.music.apple.com/us/artist/josejoseo/1599081712?app=music&ls=1
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: 'https://open.spotify.com/artist/16hL4D5M93ydHvFS8aSECR'
         showIcon: false
         icon: arrowRight
         iconPosition: right
