@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: josejoseo
+title: sky
 sections:
   - type: CtaSection
     title: last release
