@@ -101,7 +101,7 @@ sections:
         quote: |
           muy bueno vetenments
         name: John Doe
-        title: CEO at Parks
+        title: dueño de somnus records
         image:
           type: ImageBlock
           url: /images/person-2.jpg
