@@ -2,6 +2,76 @@
 type: PageLayout
 title: josejoseo
 sections:
+  - type: CtaSection
+    title: last release
+    text: ''
+    actions:
+      - type: Button
+        label: soundcloud
+        altText: ''
+        url: >-
+          https://soundcloud.com/josejoseo/sets/gone-pepe?si=dc406698bb3340d0acd18663907d8974&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: spotify
+        altText: ''
+        url: >-
+          https://open.spotify.com/intl-es/album/6XmeuZwZiZXRN5E9FB31zr?si=9DLTrChuRpq5lVauldgf4w
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Josejoseo
+    subtitle: ''
+    text: |+
+
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: FeaturedItemsSection
     title: socials
     items:
@@ -84,76 +154,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: CtaSection
-    title: last release
-    text: ''
-    actions:
-      - type: Button
-        label: soundcloud
-        altText: ''
-        url: >-
-          https://soundcloud.com/josejoseo/sets/gone-pepe?si=dc406698bb3340d0acd18663907d8974&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: spotify
-        altText: ''
-        url: >-
-          https://open.spotify.com/intl-es/album/6XmeuZwZiZXRN5E9FB31zr?si=9DLTrChuRpq5lVauldgf4w
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Josejoseo
-    subtitle: ''
-    text: |+
-
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
