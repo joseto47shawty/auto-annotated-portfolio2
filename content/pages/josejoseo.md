@@ -69,7 +69,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: ''
+            label: soundcloud
             altText: ''
             url: /
             showIcon: false
