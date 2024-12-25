@@ -126,7 +126,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: instagram
         altText: ''
         url: 'https://instagram.com/josejoseo'
         showIcon: false
