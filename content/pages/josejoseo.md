@@ -117,7 +117,7 @@ sections:
             textAlign: left
     actions:
       - type: Button
-        label: Learn more
+        label: soundcloud
         altText: ''
         url: 'https://soundcloud.com/josejoseo'
         showIcon: false
