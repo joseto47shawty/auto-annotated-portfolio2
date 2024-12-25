@@ -89,7 +89,8 @@ sections:
           - type: Button
             label: spotify
             altText: ''
-            url: /
+            url: >-
+              https://open.spotify.com/intl-es/artist/16hL4D5M93ydHvFS8aSECR?si=GD4ljqFkTy2gaJor9chp3w
             showIcon: true
             icon: arrowRight
             iconPosition: right
