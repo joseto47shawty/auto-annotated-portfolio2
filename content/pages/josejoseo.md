@@ -147,7 +147,7 @@ sections:
         label: Learn more
         altText: ''
         url: >-
-          https://open.spotify.com/intl-es/artist/16hL4D5M93ydHvFS8aSECR?si=EBIaxAJdQDudPkeEAelbNw
+          https://geo.music.apple.com/us/artist/josejoseo/1599081712?app=music&ls=1
         showIcon: false
         icon: arrowRight
         iconPosition: right
