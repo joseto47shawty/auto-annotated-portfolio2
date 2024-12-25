@@ -88,7 +88,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: soundcloud
             altText: ''
             url: 'https://souncloud.com/josejoseo'
             showIcon: false
