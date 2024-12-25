@@ -122,6 +122,19 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'our socials:'
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedItemsSection
     subtitle: 'active members:'
     items:
@@ -190,17 +203,4 @@ sections:
     colors: colors-f
     text: |
       <contacto@somnus67k.com>
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
 ---
