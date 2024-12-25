@@ -137,6 +137,15 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
+        url: 'https://youtube.com/@josejoseo67k?si=oD9vufZpRW84Z8oh'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
         url: >-
           https://open.spotify.com/intl-es/artist/16hL4D5M93ydHvFS8aSECR?si=EBIaxAJdQDudPkeEAelbNw
         showIcon: false
