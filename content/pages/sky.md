@@ -100,7 +100,7 @@ sections:
       - type: Testimonial
         quote: |
           muy bueno vetenments
-        name: John Doe
+        name: delipe antonino
         title: dueño de somnus records
         image:
           type: ImageBlock
