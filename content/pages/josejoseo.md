@@ -137,7 +137,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: socials
+    subtitle: sigueme en todas partes
 addTitleSuffix: true
 colors: colors-b
 backgroundImage:
