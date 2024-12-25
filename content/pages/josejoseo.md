@@ -42,7 +42,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/IMG-20241211-WA0034.jpg
-          altText: John Doe
+          altText: josejoseo
           caption: Caption of the image
           elementId: ''
         elementId: ''
