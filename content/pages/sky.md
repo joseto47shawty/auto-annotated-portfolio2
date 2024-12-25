@@ -31,6 +31,42 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: |
+          "Treparé por el underground, asi como un koala en su eucalipto"
+        name: Sky
+        title: Miembro de Somnus67k
+        image:
+          type: ImageBlock
+          url: /images/IMG_2029.jpeg
+          altText: ''
+          caption: ''
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     title: socials
     items:
@@ -95,42 +131,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: |
-          "Treparé por el underground, asi como un koala en su eucalipto"
-        name: Sky
-        title: Miembro de Somnus67k
-        image:
-          type: ImageBlock
-          url: /images/IMG_2029.jpeg
-          altText: ''
-          caption: ''
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-    colors: colors-f
-    variant: variant-c
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
 addTitleSuffix: true
 metaTags: []
 colors: colors-b
