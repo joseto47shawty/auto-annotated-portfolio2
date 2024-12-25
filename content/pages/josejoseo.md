@@ -34,9 +34,14 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: |+
-          "regret neva felt so empty"
+        quote: |
+          "regret 
 
+          neva 
+
+          felt 
+
+          so empty"
         name: josejoseo
         title: CEO de Somnus67k
         image:
