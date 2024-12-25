@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: josejoseo
+title: sky
 sections:
   - type: FeaturedProjectsSection
     title: RELEASES
