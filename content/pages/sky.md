@@ -80,7 +80,7 @@ sections:
           - type: Button
             label: instagram
             altText: ''
-            url: inatagram.com/josejoseo67k
+            url: 'https://instagram.com/sky67k'
             showIcon: false
             icon: arrowRight
             iconPosition: right
