@@ -91,25 +91,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        actions:
-          - type: Button
-            label: spotify
-            altText: ''
-            url: >-
-              https://open.spotify.com/intl-es/artist/16hL4D5M93ydHvFS8aSECR?si=GD4ljqFkTy2gaJor9chp3w
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-f
     columns: 1
