@@ -163,7 +163,7 @@ sections:
         style: primary
         elementId: ''
     colors: colors-f
-    columns: 1
+    columns: 2
     spacingX: 16
     spacingY: 16
     elementId: ''
