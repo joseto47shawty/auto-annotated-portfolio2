@@ -153,6 +153,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://open.spotify.com/artist/16hL4D5M93ydHvFS8aSECR'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     columns: 1
     spacingX: 16
