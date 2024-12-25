@@ -73,24 +73,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: ''
-        actions:
-          - type: Button
-            label: soundcloud
-            altText: ''
-            url: 'https://soundcloud.com/josejoseo'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-f
     columns: 1
