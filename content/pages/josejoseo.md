@@ -117,18 +117,18 @@ sections:
             textAlign: left
     actions:
       - type: Button
-        label: soundcloud
+        label: instagram
         altText: ''
-        url: 'https://soundcloud.com/josejoseo'
+        url: 'https://instagram.com/josejoseo'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
       - type: Button
-        label: instagram
+        label: soundcloud
         altText: ''
-        url: 'https://instagram.com/josejoseo'
+        url: 'https://soundcloud.com/josejoseo'
         showIcon: false
         icon: arrowRight
         iconPosition: right
