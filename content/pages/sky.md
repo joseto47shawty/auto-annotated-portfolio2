@@ -99,7 +99,7 @@ sections:
             label: spotify
             altText: ''
             url: >-
-              https://open.spotify.com/intl-es/artist/1fzUCmxnIlACYROfCBFok9?si=h-lPW38gRj-mHuCrEjkhcA
+              https://open.spotify.com/intl-es/artist/1fzUCmxnIlACYROfCBFok9?si=SQtCuqkHTW-LZ1ybXS5EDw
             showIcon: false
             icon: arrowRight
             iconPosition: right
