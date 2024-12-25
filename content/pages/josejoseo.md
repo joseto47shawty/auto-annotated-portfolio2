@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Josejoseo
-    subtitle: since november 2021
+    subtitle: ''
     text: |+
 
 
