@@ -105,7 +105,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/person-2.jpg
-          altText: felipe antonino
+          altText: ''
           caption: ''
           elementId: ''
         elementId: ''
