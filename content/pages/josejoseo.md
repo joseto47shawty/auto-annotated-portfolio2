@@ -87,6 +87,15 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://souncloud.com/josejoseo'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: ''
         styles:
           self:
