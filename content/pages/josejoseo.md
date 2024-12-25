@@ -119,7 +119,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: soundcloud.com/josejoseo
+        url: 'https://soundcloud.com/josejoseo'
         showIcon: false
         icon: arrowRight
         iconPosition: right
