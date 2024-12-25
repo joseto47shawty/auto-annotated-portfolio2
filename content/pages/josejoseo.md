@@ -75,46 +75,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title: socials
-    items:
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: |+
-
-
-        actions:
-          - type: Button
-            label: instagram
-            altText: ''
-            url: inatagram.com/josejoseo67k
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: soundcloud
-            altText: ''
-            url: 'https://souncloud.com/josejoseo'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: spotify
-            altText: ''
-            url: >-
-              https://open.spotify.com/intl-es/artist/16hL4D5M93ydHvFS8aSECR?si=6Y6pqoTLQ8CqdAEx-iDmwA
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
+    items: []
     actions:
       - type: Button
         label: instagram
