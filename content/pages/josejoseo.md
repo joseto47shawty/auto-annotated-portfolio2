@@ -137,7 +137,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: sigueme en todas partes
+    subtitle: sigueme en todas partes!
 addTitleSuffix: true
 colors: colors-b
 backgroundImage:
