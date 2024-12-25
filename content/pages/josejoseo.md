@@ -74,7 +74,7 @@ sections:
       subtitle:
         textAlign: left
   - type: FeaturedItemsSection
-    title: socials
+    title: ''
     items:
       - type: FeaturedItem
         title: ''
