@@ -135,7 +135,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: spotify
         altText: ''
         url: 'https://open.spotify.com/artist/16hL4D5M93ydHvFS8aSECR'
         showIcon: false
