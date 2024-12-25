@@ -105,7 +105,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/person-2.jpg
-          altText: John Doe
+          altText: felipe antonino
           caption: Caption of the image
           elementId: ''
         elementId: ''
