@@ -38,7 +38,7 @@ sections:
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
         name: josejoseo
-        title: CEO at Parks
+        title: CEO de Somnus67k
         image:
           type: ImageBlock
           url: /images/IMG-20241211-WA0034.jpg
